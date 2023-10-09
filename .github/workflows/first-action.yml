@@ -1,4 +1,4 @@
-name: First Workflow
+name: first-workflow-pjm
 on: 
   workflow_dispatch:
 
